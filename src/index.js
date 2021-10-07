@@ -6,6 +6,8 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
+    <script src="js/addhtml.js"></script>
+    <script src="js/html2canvas.min.js"></script>
     <App />
   </React.StrictMode>,
   document.getElementById('root')
